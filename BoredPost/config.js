@@ -6,7 +6,7 @@
 module.exports = {
     aws_remote_config: {
         region: "us-east-1",
-        accessKeyId: "AKIA566ZO7ZZF2OU3WC2",
-        secretAccessKey: "DSqv7kCW4VLP/uKYaukyyuefORTS0aygXxG890hg"
+        accessKeyId: "SAMPLE-VALUE",
+        secretAccessKey: "SAMPLE-VALUE"
     }
 }
